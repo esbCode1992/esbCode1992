@@ -1,11 +1,10 @@
-- 👋 Hey, I’m eSb
-- 👀 I’m interested in web Tech.
-<p align="center">
- <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=eSb2023&theme=dark&show_icons=true" alt="esb2023" /> -->
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esb2023&" alt="esb2023" />
-</p>
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Hey, I’m eSb
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="25" height="25" /> I’m interested in web Tech.
+<div align="center">
+  <img src="https://profile-counter.glitch.me/esb2023/count.svg?"  />
+</div>
+
 <p align="center">
   <img align="center" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif"/>
 </p>
